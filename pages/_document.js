@@ -9,7 +9,9 @@ class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head />
+        <Head>
+          <meta name="ir-site-verification-token" value="-1133287381" />
+        </Head>
         <body>
           <Main />
           <NextScript />
